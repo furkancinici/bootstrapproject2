@@ -1,2 +1,2 @@
-Bootstrap Medium Clone
-2022  
+## MediumCloneWithBootstrap
+* 2022
